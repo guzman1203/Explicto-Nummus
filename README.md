@@ -1,2 +1,2 @@
 # Explicto-Nummus
-Analyze money gathered in CSV format.
+Analyze money gathered in CSV format...
